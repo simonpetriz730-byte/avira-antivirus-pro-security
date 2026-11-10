@@ -1,0 +1,9 @@
+coverage/
+.cache/
+.next/
+npm-debug.log*
+*.log
+.pnpm-store/
+build/
+yarn-error.log*
+_site/
